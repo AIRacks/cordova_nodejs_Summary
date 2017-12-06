@@ -1,0 +1,51 @@
+[submodule "cordova-ble"]
+	path = cordova-ble
+	url = https://github.com/evothings/cordova-ble.git
+[submodule "cordova-HTTP"]
+path=cordova-HTTP
+url = https://github.com/wymsee/cordova-HTTP.git
+[submodule "cordova-js"]
+path=cordova-js
+url = https://github.com/apache/cordova-js
+[submodule "cordova-plugin-ble-central"]
+path=cordova-plugin-ble-central
+url = https://github.com/don/cordova-plugin-ble-central.git
+[submodule "cordova-plugin-blinkup"]
+path=cordova-plugin-blinkup
+url = https://github.com/SensorShare/cordova-plugin-blinkup
+[submodule "cordova-plugin-bluetoothle"]
+path=cordova-plugin-bluetoothle
+url = https://github.com/randdusing/cordova-plugin-bluetoothle.git
+[submodule "cordova-plugin-camera"]
+path=cordova-plugin-camera
+url = https://github.com/apache/cordova-plugin-camera.git
+[submodule "cordova-plugin-geolocation"]
+path=cordova-plugin-geolocation
+url = https://github.com/apache/cordova-plugin-geolocation
+[submodule "cordova-plugin-gyroscope"]
+path=cordova-plugin-gyroscope
+url = https://github.com/NeoLSN/cordova-plugin-gyroscope
+[submodule "cordova-plugin-inappbrowser"]
+path=cordova-plugin-inappbrowser
+url = https://github.com/apache/cordova-plugin-inappbrowser.git
+[submodule "cordova-wifiinfo-plugin"]
+path=cordova-wifiinfo-plugin
+url = https://github.com/hsccorp/cordova-wifiinfo-plugin.git
+[submodule "ImageDetectionCordovaPlugin"]
+path=ImageDetectionCordovaPlugin
+url = https://github.com/Cloudoki/ImageDetectionCordovaPlugin
+[submodule "nodejs-mobile"]
+path=nodejs-mobile
+url = https://github.com/janeasystems/nodejs-mobile
+[submodule "nodejs-mobile-cordova"]
+path=nodejs-mobile-cordova
+url = https://github.com/janeasystems/nodejs-mobile-cordova
+[submodule "nodejs-mobile-react-native"]
+path=nodejs-mobile-react-native
+url = https://github.com/janeasystems/nodejs-mobile-react-native
+[submodule "nodejs-mobile-samples"]
+path=nodejs-mobile-samples
+url = https://github.com/janeasystems/nodejs-mobile-samples.git
+[submodule "phonegap-manateeworks-v3"]
+path=phonegap-manateeworks-v3
+url = https://github.com/manateeworks/phonegap-manateeworks-v3.git
